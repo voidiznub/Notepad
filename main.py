@@ -64,9 +64,9 @@ cursor_char = 0
 
 current_page = 1
 storage_files = {
-    1: "/Users/ryan/Documents/Scrapyard/Storage.txt",
-    2: "/Users/ryan/Documents/Scrapyard/Storage2.txt",
-    3: "/Users/ryan/Documents/Scrapyard/Storage3.txt"
+    1: "Storage.txt",
+    2: "Storage2.txt",
+    3: "Storage3.txt"
 }
 font_size1 = (screen_width // 2) // x1
 font_size2 = (screen_width // 2) // x2
